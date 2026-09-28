@@ -1,5 +1,7 @@
+version: 2026.232.0520
 os-layer:
     candy:
+        version: 2026.144.1443
         description: |
             os — predictable system-state fixture for harness phase 1
             Writes /etc/charly-os-marker containing the predetermined content
